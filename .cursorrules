@@ -1,0 +1,82 @@
+# Cursor Rules für Lernsystem-Projekt
+
+## Projekt-Kontext
+Dies ist ein umfassendes Lernsystem für eine Klassenarbeit in WiKom (Wirtschaftskommunikation) und C# Programmierung. Der Benutzer hat ADHS und benötigt ein gamifiziertes, interaktives und visuell ansprechendes System.
+
+## Wichtige Regeln
+
+### Sprache
+- ALLES auf Deutsch (Kommentare, UI, Variablennamen, etc.)
+- Keine englischen UI-Texte
+
+### Code-Struktur
+- React + TypeScript
+- Flache Verzeichnisstruktur (keine verschachtelten Unterordner)
+- Komponenten in `src/components/`
+- Seiten in `src/pages/`
+- Hooks in `src/hooks/`
+- Utils in `src/utils/`
+- Types in `src/types/`
+- Daten in `src/data/`
+
+### Design-Anforderungen
+- Modern, hochwertig, experimentell
+- KEINE Standard-Emojis verwenden
+- Alle modernen Design-Trends einbauen:
+  - Anti Design
+  - Experimental Navigation
+  - Scrolling Design
+  - Macro Animations
+  - Chatbot Design
+  - Smart Videos
+  - Custom Illustrations
+  - Full Screen Headers
+  - Bento Grid
+  - Expressive Typography
+  - Color Trends
+  - Brutalism
+  - Micro Interactions
+  - Negative Space
+  - Grid Design
+  - 3D Websites
+  - Blending Images and Graphics
+  - Dark/Light Mode
+
+### Gamification
+- XP-System für alle Aktionen
+- Level-System basierend auf XP
+- Badges/Achievements
+- Streak-Tracking (Tage in Folge)
+- Fortschrittsbalken überall
+- Belohnungen für Erfolge
+
+### Inhalte
+- Sehr ausführlich und umfassend
+- Viele Quiz-Fragen pro Thema
+- Detaillierte Erklärungen
+- Praxisnahe Beispiele
+- Alle Themen vollständig abdecken
+
+### Dateien
+- KEINE automatischen README/Docs erstellen
+- KEINE Platzhalter oder Dummy-Inhalte
+- Alles vollständig implementieren
+- Nach "Nach Absprache Prinzip" - bei Unklarheiten fragen
+
+### Technologie
+- Vite als Build-Tool
+- Tailwind CSS für Styling
+- Framer Motion für Animationen
+- LocalStorage für Persistenz
+- React Router für Navigation
+
+### Code-Qualität
+- TypeScript strict mode
+- Saubere, lesbare Code-Struktur
+- Kommentare auf Deutsch
+- Keine unnötigen Abhängigkeiten
+
+
+
+
+
